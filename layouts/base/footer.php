@@ -1,4 +1,19 @@
-<footer>
+<?php 
+    $footer_class = '';
+    switch ($pagina) {
+        case 'unidades': 
+        case 'unidad':
+        case 'unidad1':
+        case 'unidad2':
+        case 'unidad3':
+        case 'unidad4':
+        case 'unidad5':
+        case 'unidad6':
+            $footer_class = 'unidades'; 
+        break;
+    } 
+?> 
+<footer class="<?= $footer_class ?>">
 
     <?php include 'header/logo.php' ?>
     

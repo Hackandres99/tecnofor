@@ -1,3 +1,9 @@
+.acordion {
+    width: 90%;
+    max-width: 1000px;
+    margin: 2rem auto;
+}
+
 .acordion_item {
     background-color: #fff;
     color: #111;
@@ -30,7 +36,6 @@
 }
 
 .acordion_item_body {
-    max-height: 0;
     overflow: hidden;
     transition: max-height .2s ease-out;
 }

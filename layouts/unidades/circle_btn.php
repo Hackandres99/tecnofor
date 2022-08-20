@@ -14,7 +14,7 @@
             <?php
         } else{
             ?>
-                <a href="<?= $b_link ?>" target="_blank" class="circle_btn">
+                <a href="<?= $b_link ?>" target="_blank" class="circle_btn content">
                     <div class="icon <?= $b_type ?>">
                         <div class="tooltip"><?= $b_text ?></div>
                         <span><i class="fas fa-<?= $b_icon ?>"></i></span>

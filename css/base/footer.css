@@ -4,6 +4,11 @@ footer {
     background: #fff;
 }
 
+footer.unidades {
+    margin-left: 50px;
+    width: 95vw;
+}
+
 footer .logo {
     margin-left: 0;
     display: flex;

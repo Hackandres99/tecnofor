@@ -12,9 +12,9 @@ acordion_titles.forEach(title => {
         title.classList.toggle('active')
         const body = title.nextElementSibling
         if (title.classList.contains('active')) {
-            body.style.maxHeight = body.scrollHeight + 'px'
-        } else {
             body.style.maxHeight = 0
+        } else {
+            body.style.maxHeight = body.scrollHeight + 'px'
         }
     })
 })

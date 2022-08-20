@@ -20,7 +20,8 @@
  }
  
  .thumbnail_container.unidad {
-     max-width: 300px;
+     max-width: 400px;
+     height: 400px;
  }
  
  .thumbnail_container.show {
@@ -35,6 +36,7 @@
  
  .thumbnail.unidad {
      cursor: pointer;
+     height: 250px;
  }
  
  .thumbnail_img {
