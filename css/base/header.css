@@ -271,6 +271,7 @@ header {
     }
     .session_logout_container {
         top: 38px;
+        width: 150px;
         justify-content: flex-start;
         background: rgb(241, 241, 241);
         border-image: linear-gradient(to right, #05e3ca, transparent) 1;

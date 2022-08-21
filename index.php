@@ -80,6 +80,7 @@
                             include 'layouts/'. $pagina .'.php';
                         break;
                     }
+                    include 'layouts/base/footer.php';
                 ?> 
             </div> 
             
@@ -87,7 +88,7 @@
 
         <?php
             include 'layouts/base/btn_up.php';
-            include 'layouts/base/footer.php';
+            
             include 'layouts/base/scripts.php'; 
          ?>
 

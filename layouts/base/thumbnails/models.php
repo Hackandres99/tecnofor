@@ -47,7 +47,7 @@
     }
 
     function make_thumbnail_tag($pagina, $tag){
-        if($pagina == 'unidades'){ 
+        if($pagina == 'unidades' or $pagina == 'inicio'){ 
             ?> 
                 <ul class="thumbnail_tag">
                     <li><?php echo $tag ?></li>
@@ -80,11 +80,13 @@
                     break;
                 }
             }
-            ?> 
-                <a href=" <?php echo $theresAnAccount ?>">
-                    <button class="thumbnail_btn">Ver más</button>
-                </a> 
-            <?php 
-        } 
+            if($pagina != 'inicio'){
+                ?> 
+                    <a href=" <?php echo $theresAnAccount ?>">
+                        <button class="thumbnail_btn">Ver más</button>
+                    </a> 
+                <?php 
+            }
+        }
     }
 ?>

@@ -4,7 +4,6 @@
     right: 40px;
     display: flex;
     justify-content: flex-end;
-    /* z-index: 3; */
 }
 
 .resources_circle_menu {
@@ -23,11 +22,11 @@
     transform-origin: 100px;
     transition: 0.5s;
     transition-delay: calc(0.1s * var(--i));
-    transform: rotate(0deg) translateX(80px);
+    transform: rotate(-90deg) translateX(80px);
 }
 
 .resources_circle_menu.active li {
-    transform: rotate(calc(360deg / 6 * var(--i)));
+    transform: rotate(calc(360deg / 4 * var(--i)));
 }
 
 .resources_circle_menu li a {
@@ -38,7 +37,7 @@
     height: 40px;
     background: #fff;
     border-radius: 50%;
-    transform: rotate(calc(360deg / -6 * var(--i)));
+    transform: rotate(calc(360deg / -4 * var(--i)));
     box-shadow: 0 3px 4px rgba(0, 0, 0, 0.15);
     color: #111;
     transition: 0.5s;
@@ -46,10 +45,6 @@
 
 .resources_circle_menu li a:hover {
     color: #46a2fd;
-}
-
-.resources_circle_menu li a i {
-    margin-right: 5px;
 }
 
 .toggle {

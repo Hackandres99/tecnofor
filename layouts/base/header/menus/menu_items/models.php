@@ -1,6 +1,6 @@
 <?php
-    function make_link($ahref, $aclass, $lclass, $icon, $name){
-        if($ahref != ''){
+    function make_link($type, $ahref, $aclass, $lclass, $icon, $name){
+        if($type != 'http'){
             ?>
                 <a href="?p=<?= $ahref ?>" class="menu_link <?= $aclass ?>">
                     <span class="menu_bar"></span>
@@ -12,7 +12,8 @@
             <?php
         } else {
             ?>
-                <a class="menu_link <?= $aclass ?>">
+                <a href="<?= $ahref ?>" class="menu_link <?= $aclass ?>" 
+                    target="_blank">
                     <span class="menu_bar"></span>
                     <li class="<?= $lclass ?>">
                     <i class="fas fa-<?= $icon ?>"></i> 
@@ -36,7 +37,10 @@
                     </label>
                     <a href="?p=logout">
                         <div class="session_logout_container">
-                            <label class="session_logout">Cerrar sesión</label>
+                            <label class="session_logout">
+                                <i class="fas fa-sign-out-alt"></i>
+                                Cerrar sesión
+                            </label>
                         </div>
                     </a>
                 </div>  

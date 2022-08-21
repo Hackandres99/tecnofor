@@ -18,11 +18,12 @@ body {
 
 .container {
     width: 100%;
+    margin-top: 80px;
 }
 
 .container.unidades {
     margin-left: 50px;
-    width: 97%;
+    /* width: 97%; */
 }
 
 @media screen and (max-width: 800px) {
