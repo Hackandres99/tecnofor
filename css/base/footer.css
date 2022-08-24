@@ -28,7 +28,9 @@ footer .logo_name {
 .footer_medias {
     display: flex;
     justify-content: center;
+    align-items: center;
     margin-top: 20px;
+    color: rgb(70, 70, 70);
 }
 
 .footer_media_icon {
@@ -62,5 +64,8 @@ footer .logo_name {
 @media screen and (max-width: 530px) {
     footer .logo_sentence_link {
         width: 150px;
+    }
+    .footer_medias {
+        flex-direction: column;
     }
 }

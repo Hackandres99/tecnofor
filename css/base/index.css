@@ -23,7 +23,6 @@ body {
 
 .container.unidades {
     margin-left: 50px;
-    /* width: 97%; */
 }
 
 @media screen and (max-width: 800px) {
