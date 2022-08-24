@@ -20,7 +20,7 @@
             $pagina, $theresAnAccount, 
             $results[0]['id'], $results[0]['video_src'], 
             $results[0]['theme'], $results[0]['creation_date'],
-            'quizz', 'Hacer quizz', 'clipboard-list', 'https://quizizz.com/',
+            'quizz', 'Hacer actividad', 'clipboard-list', 'https://es.liveworksheets.com/tf3156579ty',
             'geo', 'Ir a geogebra', 'subscript', 'https://www.geogebra.org/'
         );
         make_btn_link('yes', '', $visit_num, '', '');

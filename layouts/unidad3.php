@@ -19,7 +19,7 @@
             $pagina, $theresAnAccount, 
             $results[2]['id'], $results[2]['video_src'], 
             $results[2]['theme'], $results[2]['creation_date'],
-            'quizz', 'Hacer quizz', 'clipboard-list', 'https://quizizz.com/',
+            'quizz', 'Hacer actividad', 'clipboard-list', 'https://es.liveworksheets.com/kh3158079ma',
             'geo', 'Ir a geogebra', 'subscript', 'https://www.geogebra.org/'
         );
         make_btn_link('yes', '', $visit_num, '', '');

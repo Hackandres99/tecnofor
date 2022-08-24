@@ -19,6 +19,7 @@
             ?>
                 <div class="front_page_logos">
                     <img class="img" src="/img/inicio/UG.png" alt="UG logo">
+                    <img class="img" src="/img/inicio/FHR.png" alt="FHR logo">
                     <img class="img" src="/img/inicio/philosophy.png" alt="philosophy logo">
                 </div>
             <?php
