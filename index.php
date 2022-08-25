@@ -65,7 +65,7 @@
                         break;
 
                         case 'session': case 'registrarse': 
-                            echo 'session'; 
+                        case 'recuperar': echo 'session'; 
                         break;
                     } 
                 ?> 
@@ -73,7 +73,7 @@
                 <?php
                     switch ($pagina) {
                         case 'session': case 'registrarse': 
-                            include 'layouts/session/form.php'; 
+                        case 'recuperar': include 'layouts/session/form.php'; 
                         break;
 
                         default: 

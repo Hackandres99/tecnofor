@@ -29,6 +29,12 @@
     font-weight: 800;
 }
 
+.form_title.recuperar {
+    margin: 10px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
 .form_group {
     position: relative;
     margin: 45px;
@@ -88,6 +94,15 @@
     background: linear-gradient(to right, #6A82FB, #FC5C7D);
     transition: 0.3s ease all;
     left: 0%;
+}
+
+.form_link {
+    font-size: 15px;
+    color: #2196F3;
+}
+
+.form_link:hover {
+    text-decoration: underline;
 }
 
 .form_btn {

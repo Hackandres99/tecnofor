@@ -24,7 +24,7 @@
                 include 'head/contacto.php'; 
             break;
 
-            case 'session': case 'registrarse':
+            case 'session': case 'registrarse': case 'recuperar':
                 ?>  
                     <link rel="stylesheet" href="/css/session.css"> 
                 <?php 

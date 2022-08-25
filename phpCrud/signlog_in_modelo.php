@@ -87,7 +87,17 @@ class Signlog_in_modelo extends BD{
         }
     }
 
-    public function update($registro){}
+    public function update($registro){
+        $conexion = parent::connect();
+        try {
+            $query = "UPDATE {$this->table1} SET account_pass=:account_pass,
+             update_date=:update_date WHERE email=:email;";
+            $actualizar = $conexion->prepare($query)->execute($registro);
+            echo "Registro actualizado correctamente.";
+        } catch (Exception $e) {
+            exit("ERROR: {$e->getMessage()}");
+        }
+    }
 
     public function delete($accion, $eliminar){}
 
