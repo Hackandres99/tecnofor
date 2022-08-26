@@ -15,8 +15,8 @@
 
         make_unidad(
             $results[3]['image_src'], 'Unidad numero 4',
-            $results[3]['title'], $results[3]['theme'],
-            $pagina, $theresAnAccount, 
+            $results[3]['title'], $results[3]['intro_video'],
+            $results[3]['theme'], $pagina, $theresAnAccount, 
             $results[3]['id'], $results[3]['video_src'], 
             $results[3]['theme'], $results[3]['creation_date'],
             'quizz', 'Hacer actividad', 'clipboard-list', 'https://quizizz.com/',

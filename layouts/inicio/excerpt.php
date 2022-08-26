@@ -9,7 +9,7 @@
         El objetivo del sitio es ofrecer a los alumnos un ambiente de estudio más intelectual con la ayuda de herramientas creativas que mejoren el proceso de formación mediante el análisis de videos digitales presentados en el sitio, los cuales cuentan con secuencias didácticas que sean las más adecuadas al nivel de estudio para que los alumnos logren su propio aprendizaje de manera autónoma.
     </p>
     <p class="excerpt_paragraph">
-        Creemos firmemente en que estas herramientas sean gratuitas sin necesidad de utilizar algún software adicional. Por ello, Tecnofor está desarrollado para poder ser utilizado en el celular, en la tablet o en la computadora. 
+        Creemos firmemente en que estas herramientas sean gratuitas sin necesidad de utilizar algún software adicional. Por ello, Tecnofor está desarrollado para poder ser utilizado en el celular, en la tablet o en la computadora.
     </p>
     <h2 class="excerpt_secondary_title">
         El Equipo de Tecnofor.

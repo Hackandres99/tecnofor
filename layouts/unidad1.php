@@ -16,8 +16,8 @@
 
         make_unidad(
             $results[0]['image_src'], 'Unidad numero 1',
-            $results[0]['title'], $results[0]['theme'],
-            $pagina, $theresAnAccount, 
+            $results[0]['title'],$results[0]['intro_video'],
+            $results[0]['theme'], $pagina, $theresAnAccount, 
             $results[0]['id'], $results[0]['video_src'], 
             $results[0]['theme'], $results[0]['creation_date'],
             'quizz', 'Hacer actividad', 'clipboard-list', 'https://es.liveworksheets.com/tf3156579ty',

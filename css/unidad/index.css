@@ -8,6 +8,11 @@
     margin: 2rem auto;
 }
 
+.unidad_introductory_video {
+    width: 100%;
+    height: 500px;
+}
+
 .unidad_resources {
     width: 100%;
     display: flex;

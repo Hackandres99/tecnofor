@@ -16,8 +16,8 @@
         
         make_unidad(
             $results[1]['image_src'], 'Unidad numero 2',
-            $results[1]['title'], $results[1]['theme'],
-            $pagina, $theresAnAccount, 
+            $results[1]['title'], $results[1]['intro_video'],
+            $results[1]['theme'], $pagina, $theresAnAccount, 
             $results[1]['id'], $results[1]['video_src'], 
             $results[1]['theme'], $results[1]['creation_date'],
             'quizz', 'Hacer actividad', 'clipboard-list', 'https://docs.google.com/forms/d/e/1FAIpQLSdbzlhlSJSDgLD46L9uq3hTkqhHrda_cG-MDb_ihCkCCdTuFQ/viewform?usp=sf_link',
