@@ -20,8 +20,8 @@
             $results[1]['theme'], $pagina, $theresAnAccount, 
             $results[1]['id'], $results[1]['video_src'], 
             $results[1]['theme'], $results[1]['creation_date'],
-            'quizz', 'Hacer actividad', 'clipboard-list', 'https://docs.google.com/forms/d/e/1FAIpQLSdbzlhlSJSDgLD46L9uq3hTkqhHrda_cG-MDb_ihCkCCdTuFQ/viewform?usp=sf_link',
-            'geo', 'Ir a geogebra', 'subscript', 'https://www.geogebra.org/'
+            'docs.google.com/forms/d/e/1FAIpQLSdbzlhlSJSDgLD46L9uq3hTkqhHrda_cG-MDb_ihCkCCdTuFQ/viewform?usp=sf_link',
+            'www.geogebra.org/'
         );
         make_btn_link('yes', '', $visit_num, '', '');
     } else {

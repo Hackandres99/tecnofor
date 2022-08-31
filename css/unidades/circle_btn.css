@@ -66,11 +66,6 @@
     transition: all .4s cubic-bezier(.68, -.55, .265, 1.55);
 }
 
-.quizz .tooltip,
-.geo .tooltip {
-    width: 150px;
-}
-
 .icon:hover .tooltip {
     top: -70px;
     opacity: 1;
@@ -99,18 +94,6 @@
 .visits:hover .tooltip,
 .visits:hover .tooltip::before {
     background-color: #46a2fd;
-}
-
-.quizz:hover span,
-.quizz:hover .tooltip,
-.quizz:hover .tooltip::before {
-    background-color: #3eff82;
-}
-
-.geo:hover span,
-.geo:hover .tooltip,
-.geo:hover .tooltip::before {
-    background-color: #a846fd;
 }
 
 @media screen and (max-width: 800px) {

@@ -1,7 +1,6 @@
 <?php
     function make_unidad($f_image_src, $f_title, $f_phrase, $introductory_video, $e_title,
-     $e_pagina, $t_account, $t_id, $t_video, $t_title, $t_cre_date,  
-     $q_type, $q_text, $q_icon, $q_link, $g_type, $g_text, $g_icon, $g_link){
+     $e_pagina, $t_account, $t_id, $t_video, $t_title, $t_cre_date, $q_link, $g_link){
 
         ?>  
             <iframe class="unidad_introductory_video" frameborder="0" allowfullscreen
@@ -18,14 +17,15 @@
                     $f_image_src,$t_video, $t_title,
                     $t_cre_date, '',''); 
 
-                    make_btn_link('', $q_type, $q_text, $q_icon, $q_link);
+                    ?>
+                        <a href="http://<?= $q_link ?>" target="_blank" class="unidad_resource_link">
+                            Hacer Actividad
+                        </a>
+                        <a href="http://<?= $g_link ?>" target="_blank" class="unidad_resource_link">
+                            Ir a geogebra
+                        </a>
+                    <?php 
                 ?>  
-            </div> 
-
-            <div class="unidad_container">
-                <?php   
-                    make_btn_link('', $g_type, $g_text, $g_icon, $g_link); 
-                ?>
             </div> 
 
 <?php         

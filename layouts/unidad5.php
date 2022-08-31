@@ -19,8 +19,7 @@
             $results[4]['theme'], $pagina, $theresAnAccount, 
             $results[4]['id'], $results[4]['video_src'], 
             $results[4]['theme'], $results[4]['creation_date'],
-            'quizz', 'Hacer actividad', 'clipboard-list', 'https://quizizz.com/',
-            'geo', 'Ir a geogebra', 'subscript', 'https://www.geogebra.org/'
+            'https://quizizz.com/', 'https://www.geogebra.org/'
         );
         make_btn_link('yes', '', $visit_num, '', '');
     } else {
