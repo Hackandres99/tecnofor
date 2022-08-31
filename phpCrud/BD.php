@@ -6,7 +6,7 @@ const DB_charset = 'utf8';
 abstract class BD {
     private static $db = DB;
     private static $db_usuario = 'root';
-    private static $db_pass = 'secreet';
+    private static $db_pass = '40xWQ)fCQsdhY-Y6';
     private static $db_servidor = DB_servidor;
     private static $db_nombre = 'tecnofor';
     private static $db_charset = DB_charset;
