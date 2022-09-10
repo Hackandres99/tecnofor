@@ -3,8 +3,8 @@ Si la base es positiva el resultado es positivo. <br><br>
 <label class="mark">Ejemplo:</label>  
 
 <ol class="list">
-    <li><img class="img" src="/img/unidades/u1_img/img1.png" alt="ecuación 1"></li>
-    <li><img class="img" src="/img/unidades/u1_img/img2.png" alt="ecuación 2"></li>
+    <li>5² = 25</li>
+    <li>3<sup>3</sup> =  27</li>
 </ol>
 
 Si la base es negativa el resultado 

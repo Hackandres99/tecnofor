@@ -19,7 +19,8 @@
             $results[4]['theme'], $pagina, $theresAnAccount, 
             $results[4]['id'], $results[4]['video_src'], 
             $results[4]['theme'], $results[4]['creation_date'],
-            'es.liveworksheets.com/ne3158458eb/', 'es.symbolab.com'
+            'es.liveworksheets.com/ne3158458eb/', '/img/unidades/actividad.gif', 'Hacer actividad',
+            'es.symbolab.com', '/img/unidades/geo.gif', 'Ir a geogebra'
         );
         make_btn_link('yes', '', $visit_num, '', '');
     } else {

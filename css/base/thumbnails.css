@@ -30,7 +30,6 @@
  
  .thumbnail_container.unidad {
      max-width: 400px;
-     height: 360px;
  }
  
  .thumbnail_container.show {
@@ -79,8 +78,8 @@
  
  .thumbnail_text {
      display: block;
-     margin-top: 10px;
-     padding: 0px 10px;
+     /* margin-top: 10px; */
+     padding: 10px 10px;
  }
  
  .thumbnail_tag {

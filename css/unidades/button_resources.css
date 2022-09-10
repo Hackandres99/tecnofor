@@ -4,6 +4,7 @@
     right: 40px;
     display: flex;
     justify-content: flex-end;
+    z-index: 2;
 }
 
 .resources_circle_menu {

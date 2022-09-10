@@ -20,8 +20,8 @@
             $results[1]['theme'], $pagina, $theresAnAccount, 
             $results[1]['id'], $results[1]['video_src'], 
             $results[1]['theme'], $results[1]['creation_date'],
-            'docs.google.com/forms/d/e/1FAIpQLSdbzlhlSJSDgLD46L9uq3hTkqhHrda_cG-MDb_ihCkCCdTuFQ/viewform?usp=sf_link',
-            'www.newtondreams.com/fisica/calculadora_vectores/'
+            'docs.google.com/forms/d/e/1FAIpQLSdbzlhlSJSDgLD46L9uq3hTkqhHrda_cG-MDb_ihCkCCdTuFQ/viewform?usp=sf_link', '/img/unidades/actividad.gif', 'Hacer actividad',
+            'www.newtondreams.com/fisica/calculadora_vectores/', '/img/unidades/geo.gif', 'Ir a geogebra'
         );
         make_btn_link('yes', '', $visit_num, '', '');
     } else {

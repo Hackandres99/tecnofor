@@ -13,10 +13,14 @@ Después, sumamos las ecuaciones y resolvemos la ecuación obtenida: <br><br>
 
 <img class="img" src="/img/unidades/u3_img/img1.png" alt="Ejemplo"> <br><br>
 
-Finalmente, sustituimos el valor de y=2y=2 en la primera ecuación y la resolvemos: <br><br>
+Finalmente, sustituimos el valor de y=2 en la primera ecuación y la resolvemos:
 
-<img class="img" src="/img/unidades/u3_img/img2.png" alt="Ejemplo"> <br><br>
+<ul class="list" style="list-style: none;">
+    <li>x + y = 3</li>
+    <li>x + 2 = 3</li>
+    <li>x = 3 - 2 = 1</li>
+</ul>
 
 Por tanto, la solución del sistema de ecuaciones es: <br><br>
 
-<img class="img" src="/img/unidades/u3_img/img3.png" alt="Ejemplo"> <br><br>
+x = 1, y = 2<br><br>

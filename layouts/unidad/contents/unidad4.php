@@ -6,11 +6,11 @@ Así pues, la ecuación vectorial de la recta es una manera de expresar matemát
 
 Si V es el vector directo de la recta y P un punto que pertenece a la recta: <br><br>
 
-<img class="img" src="/img/unidades/u4_img/img1.png" alt="Ecuación 1"> <br><br>
+v = (v<sub>1</sub>, v<sub>2</sub>)    P(P<sub>1</sub>, P<sub>2</sub>) <br><br>
 
 La fórmula de la <label class="strong">ecuación vectorial de la recta</label> es:<br><br>
 
-<img class="img" src="/img/unidades/u4_img/img2.png" alt="Ecuación 2"> <br><br>
+(x, y) = (P<sub>1</sub>, P<sub>2</sub>) + t * (v<sub>1</sub>, v<sub>2</sub>) <br><br>
 
 Donde:
 
@@ -27,7 +27,7 @@ Donde:
 
 <ul class="list"><li>Escribe la ecuación vectorial de la recta que pasa por el punto P y tiene V como vector director:</li></ul>
 
-<img class="img" src="/img/unidades/u4_img/img4.png" alt="Plano cartesiano"> <br><br>
+v = (1, 2) P(3, 0) <br><br>
 
 Para hallar la ecuacion vectorial de la recta, tan solo tenemos que aplicar su fórmuala: <br><br>
 

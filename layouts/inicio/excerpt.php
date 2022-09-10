@@ -1,6 +1,7 @@
 <article class="excerpt">
-<h2 class="excerpt_secondary_title"><FONT color="blue" >
-        Acerca de Nosotros. </FONT>
+
+    <h2 class="excerpt_secondary_title">
+        Acerca de Nosotros.
     </h2>
     <p class="excerpt_paragraph">
     El objetivo de Tecnofor  es ofrecer a los alumnos un ambiente de estudio más intelectual con la ayuda del uso de  
@@ -23,4 +24,5 @@
             '', 'Estudiante','diana.castrosu@ug.edu.ec '); 
         ?>
     </div>
+    
 </article>

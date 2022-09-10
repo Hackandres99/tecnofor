@@ -2,9 +2,12 @@ Para dividir el polinomio P(x) entre el polinomio Q(x), necesitamos que el grado
 
 El polinomio P(x) es el dividendo y Q(x) es el divisor. <br><br>
 
-Escribimos el dividiendo y el divisor como en una división de números: <br><br>
+Escribimos el dividiendo y el divisor como en una división de números:
 
-<img class="img" src="/img/unidades/u6_img/img1.jpg" alt="Ecuación 1"> <br><br>
+<ul class="list" style="list-style: none;">
+    <li>P(x) <label class="division">Q(x)</label></li>
+    <li>R(x) C(x)</li>
+</ul>
 
 El polinomio R(x) es el resto y C(x) es el cociente. <br><br>
 

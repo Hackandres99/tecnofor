@@ -1,6 +1,6 @@
 .acordion {
     width: 90%;
-    max-width: 1000px;
+    /* max-width: 1000px; */
     margin: 2rem auto;
 }
 
@@ -71,4 +71,23 @@
 
 .acordion_item_body_content .strong {
     font-weight: 600;
+}
+
+.acordion_item_body_content .division {
+    border-left: 1px #000 solid;
+    border-bottom: 1px #000 solid;
+}
+
+@media screen and (max-width: 967px) {
+    .acordion_item_body_content .img,
+    .acordion_item_body_content .img.width,
+    .acordion_item_body_content .img.height {
+        width: 100%;
+    }
+    .acordion_item_body_content .img.width {
+        height: 150px;
+    }
+    .acordion_item_body_content .img.height {
+        height: 250px;
+    }
 }

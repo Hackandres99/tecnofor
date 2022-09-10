@@ -20,7 +20,8 @@
             $results[0]['theme'], $pagina, $theresAnAccount, 
             $results[0]['id'], $results[0]['video_src'], 
             $results[0]['theme'], $results[0]['creation_date'],
-            'es.liveworksheets.com/tf3156579ty', 'es.symbolab.com/'
+            'es.liveworksheets.com/tf3156579ty', '/img/unidades/actividad.gif', 'Hacer actividad',
+            'es.symbolab.com/', '/img/unidades/geo.gif', 'Ir a geogebra'
         );
         make_btn_link('yes', '', $visit_num, '', '');
     } else {
