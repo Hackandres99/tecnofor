@@ -19,7 +19,7 @@
             $results[3]['theme'], $pagina, $theresAnAccount, 
             $results[3]['id'], $results[3]['video_src'], 
             $results[3]['theme'], $results[3]['creation_date'],
-            'https://quizizz.com/', 'https://www.geogebra.org/'
+            'quizizz.com/join/quiz/63058a8feaa315001e3cb8af/start?studentShare=true/', 'www.geogebra.org/graphing?lang=es/'
         );
         make_btn_link('yes', '', $visit_num, '', '');
     } else {

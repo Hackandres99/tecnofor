@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> Práctica N°7 </title>
+</head>
+
+<body bgcolor="greenyellow" text="darkorangek"><h1 align="center"><mark>Diana Castro
+</mark></h1><p><h3 align="center">Bienvenidos</h3></p>
+
+<p style="font-size:64px;font face: "Algerian">CASTRO SUAREZ</p>
+
+<p style aling="center"><font color="deepskyblue" size"8" face="Cooper black"> Universidad de Guayaquil</font>

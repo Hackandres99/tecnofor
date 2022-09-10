@@ -19,7 +19,7 @@
             $results[4]['theme'], $pagina, $theresAnAccount, 
             $results[4]['id'], $results[4]['video_src'], 
             $results[4]['theme'], $results[4]['creation_date'],
-            'https://quizizz.com/', 'https://www.geogebra.org/'
+            'es.liveworksheets.com/ne3158458eb/', 'es.symbolab.com'
         );
         make_btn_link('yes', '', $visit_num, '', '');
     } else {

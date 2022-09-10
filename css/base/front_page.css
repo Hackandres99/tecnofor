@@ -20,7 +20,7 @@
     justify-content: center;
     align-items: center;
     color: #fff;
-    background-image: linear-gradient(to left top, rgb(45, 220, 214), transparent), linear-gradient(to right bottom, rgb(45, 220, 214), transparent);
+    background-image: linear-gradient(to left top, rgb(109, 241, 180), transparent), linear-gradient(to right bottom, rgb(109, 241, 180), transparent);
 }
 
 .front_page_img {
@@ -47,7 +47,7 @@
 
 .front_page_logos .img:nth-child(2) {
     height: 150px;
-    width: 150px;
+    width: 160px;
 }
 
 .front_page_logos .img:last-child {
@@ -59,7 +59,7 @@
     text-align: center;
     font-size: 60px;
     font-weight: 500;
-    color: #fff;
+    color: rgb(12, 12, 12);
     margin-bottom: 20px;
 }
 
@@ -70,8 +70,8 @@
 .front_page_phrase {
     margin: 0 10px;
     text-align: center;
-    color: rgb(105, 105, 105);
-    font-size: 25px;
+    color: rgb(6, 50, 228);
+    font-size: 30px;
     font-weight: 400;
 }
 

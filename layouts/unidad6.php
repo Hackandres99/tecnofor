@@ -19,7 +19,7 @@
             $results[5]['theme'], $pagina, $theresAnAccount, 
             $results[5]['id'], $results[5]['video_src'], 
             $results[5]['theme'], $results[5]['creation_date'],
-            'https://quizizz.com/', 'https://www.geogebra.org/'
+            'es.liveworksheets.com/go3159887ii', 'calculadorasonline.com/calculadora-de-division-de-polinomios-paso-a-paso/#Calculadora_de_division_de_polinomios'
         );
         make_btn_link('yes', '', $visit_num, '', '');
     } else {

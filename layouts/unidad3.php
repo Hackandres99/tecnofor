@@ -20,7 +20,7 @@
             $results[2]['id'], $results[2]['video_src'], 
             $results[2]['theme'], $results[2]['creation_date'],
             'es.liveworksheets.com/kh3158079ma',
-            'www.geogebra.org/'
+            'www.geogebra.org/classic?lang=es'
         );
         make_btn_link('yes', '', $visit_num, '', '');
     } else {

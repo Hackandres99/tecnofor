@@ -20,7 +20,7 @@
             $results[0]['theme'], $pagina, $theresAnAccount, 
             $results[0]['id'], $results[0]['video_src'], 
             $results[0]['theme'], $results[0]['creation_date'],
-            'es.liveworksheets.com/tf3156579ty', 'www.geogebra.org/'
+            'es.liveworksheets.com/tf3156579ty', 'es.symbolab.com/'
         );
         make_btn_link('yes', '', $visit_num, '', '');
     } else {

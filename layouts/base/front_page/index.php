@@ -28,10 +28,10 @@
     <h1 class="front_page_title <?= $page ?>">
             <?php   
                 if($pagina == 'inicio'){
-                    echo 'Diseño Pedagógico Digital Basado En Los Recursos Tecnológicos Educativos
-                    Para Fortalecer El Aprendizaje De La Asignatura De Matemáticas de Primer Año de Bachillerato.';
+                    echo 'Uso De Recursos Tecnológicos Educativos Para El Fortalecimiento 
+                    Del Aprendizaje <br>En La Asignatura De Matemáticas De Los Estudiantes De Primero De Bachillerato <br>De La Unidad Educativa Particular Francisco Huerta Rendón.';
                 }else{
-                    echo 'Encuentra tu tema de interes.';
+                    echo 'Encuentra tu tema de interés.';
                 }
             ?>
         </h1>
