@@ -6,7 +6,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background: linear-gradient(to top right, #FCDE30, #E9712A, #D2313B, #AE4198, #7540A1, #5443A8);
+    background: linear-gradient(to top right, #61f3db, #61f3db);
     font-family: 'Poppins', sans-serif;
     padding-top: 100px;
 }

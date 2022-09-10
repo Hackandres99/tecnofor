@@ -20,7 +20,7 @@
     justify-content: center;
     align-items: center;
     color: #fff;
-    background-image: linear-gradient(to left top, rgb(109, 241, 180), transparent), linear-gradient(to right bottom, rgb(109, 241, 180), transparent);
+    background-image: linear-gradient(to left top, rgb(113, 241, 203), transparent), linear-gradient(to right bottom, rgb(113, 241, 203), transparent);
 }
 
 .front_page_img {
