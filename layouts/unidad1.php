@@ -15,13 +15,13 @@
         $results = $thumbnail->consult();
 
         make_unidad(
-            $results[0]['image_src'], 'Unidad numero 1',
+            $results[0]['image_src'], 'Unidad Número 1',
             $results[0]['title'],$results[0]['intro_video'],
             $results[0]['theme'], $pagina, $theresAnAccount, 
             $results[0]['id'], $results[0]['video_src'], 
             $results[0]['theme'], $results[0]['creation_date'],
-            'es.liveworksheets.com/tf3156579ty', '/img/unidades/actividad.gif', 'Hacer actividad',
-            'es.symbolab.com/', '/img/unidades/geo.gif', 'Ir a geogebra'
+            'es.liveworksheets.com/he3174350lj', '/img/unidades/symbolab.gif', 'Actividad',
+            'es.symbolab.com/', '/img/unidades/geo.gif', 'Ir a Symbolab'
         );
         make_btn_link('yes', '', $visit_num, '', '');
     } else {

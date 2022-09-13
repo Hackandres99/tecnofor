@@ -21,7 +21,7 @@ Donde:
     <li>t es un escalar (un número real) cuyo valor depende de cada punto de la recta.</li>
 </ul>
 
-<img class="img" src="/img/unidades/u4_img/img3.png" alt="Plano cartesiano"> <br><br>
+<div align="center"><img  class="img" src="/img/unidades/u4_img/img3.png" alt="Plano cartesiano"></div>  <br><br>
 
 <label class="mark">Ejemplo:</label>
 

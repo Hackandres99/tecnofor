@@ -6,6 +6,6 @@
         </span>   
     </a>
    <a class="logo_sentence_link"href="?p=inicio">
-        FORTALECE TU APRENDIZAJE CON LA TECNOLOGÍA.
+        FORTALECE TU APRENDIZAJE CON LA TECNOLOGÍA
     </a>
 </h1>

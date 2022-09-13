@@ -14,13 +14,13 @@
         $results = $thumbnail->consult();
 
         make_unidad(
-            $results[3]['image_src'], 'Unidad numero 4',
+            $results[3]['image_src'], 'Unidad Número 4',
             $results[3]['title'], $results[3]['intro_video'],
             $results[3]['theme'], $pagina, $theresAnAccount, 
             $results[3]['id'], $results[3]['video_src'], 
             $results[3]['theme'], $results[3]['creation_date'],
-            'quizizz.com/join/quiz/63058a8feaa315001e3cb8af/start?studentShare=true/', '/img/unidades/actividad.gif', 'Hacer actividad',
-            'www.geogebra.org/graphing?lang=es/', '/img/unidades/geo.gif', 'Ir a geogebra'
+            'quizizz.com/join/quiz/63058a8feaa315001e3cb8af/start?studentShare=true/', '/img/unidades/actividad.gif','Actividad',
+            'www.geogebra.org/graphing?lang=es/', '/img/unidades/geo.gif', 'Ir a Geogebra'
         );
         make_btn_link('yes', '', $visit_num, '', '');
     } else {

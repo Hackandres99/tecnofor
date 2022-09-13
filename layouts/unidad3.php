@@ -14,13 +14,13 @@
         $results = $thumbnail->consult();
 
         make_unidad(
-            $results[2]['image_src'], 'Unidad numero 3',
+            $results[2]['image_src'], 'Unidad Número 3',
             $results[2]['title'], $results[2]['intro_video'], 
             $results[2]['theme'], $pagina, $theresAnAccount, 
             $results[2]['id'], $results[2]['video_src'], 
             $results[2]['theme'], $results[2]['creation_date'],
-            'es.liveworksheets.com/kh3158079ma', '/img/unidades/actividad.gif', 'Hacer actividad',
-            'www.geogebra.org/classic?lang=es', '/img/unidades/geo.gif', 'Ir a geogebra'
+            'es.liveworksheets.com/kh3158079ma', '/img/unidades/actividad.gif', 'Actividad',
+            'www.geogebra.org/classic?lang=es', '/img/unidades/geo.gif', 'Ir a Geogebra Clásico'
         );
         make_btn_link('yes', '', $visit_num, '', '');
     } else {
