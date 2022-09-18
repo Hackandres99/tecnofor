@@ -13,5 +13,11 @@ Es decir si el vector <label class="strong">v</label> = (3,2), esto nos indica q
     <li>Para restar dos vectores se restan sus coordenadas.</li>
 </ul>
 
-<label class="mark">Ejemplo:</label> <br><br>
-<img class="img" src="/img/unidades/u2_img/img1.png" alt="Ejemplo">
+<label class="mark">Ejemplo: </label>
+
+<ul class="list" style="list-style: none;">
+    <li>r = p + q</li>
+    <li>El vector suma es:</li>
+    <li>r = (5 + (-2), 3 + (-5))</li>
+    <li>r = (3, -2)</li>
+</ul>

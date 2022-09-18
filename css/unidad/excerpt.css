@@ -85,7 +85,8 @@
         width: 100%;
     }
     .acordion_item_body_content .img.width {
-        height: 150px;
+        width: 200px;
+        height: 200px;
     }
     .acordion_item_body_content .img.height {
         height: 250px;

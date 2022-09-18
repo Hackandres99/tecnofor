@@ -19,8 +19,8 @@
             $results[5]['theme'], $pagina, $theresAnAccount, 
             $results[5]['id'], $results[5]['video_src'], 
             $results[5]['theme'], $results[5]['creation_date'],
-            'es.liveworksheets.com/ym3174257ma', '/img/unidades/actividad.gif', 'Actividad',
-            'calculadorasonline.com/calculadora-de-division-de-polinomios-paso-a-paso/#Calculadora_de_division_de_polinomios', '/img/unidades/geo.gif', 'Ir a Calculadora-Online'
+            'es.liveworksheets.com/ym3174257ma', '/img/unidades/gif/computadora.gif', 'Actividad',
+            'calculadorasonline.com/calculadora-de-division-de-polinomios-paso-a-paso/#Calculadora_de_division_de_polinomios', '/img/unidades/gif/online1.gif', 'Ir a Calculadora-Online'
         );
         make_btn_link('yes', '', $visit_num, '', '');
     } else {

@@ -19,8 +19,8 @@
             $results[3]['theme'], $pagina, $theresAnAccount, 
             $results[3]['id'], $results[3]['video_src'], 
             $results[3]['theme'], $results[3]['creation_date'],
-            'quizizz.com/join/quiz/63058a8feaa315001e3cb8af/start?studentShare=true/', '/img/unidades/actividad.gif','Actividad',
-            'www.geogebra.org/graphing?lang=es/', '/img/unidades/geo.gif', 'Ir a Geogebra'
+            'quizizz.com/join/quiz/63058a8feaa315001e3cb8af/start?studentShare=true/', '/img/unidades/gif/computadora.gif','Actividad',
+            'www.geogebra.org/graphing?lang=es/', '/img/unidades/gif/geogebra.gif', 'Ir a Geogebra'
         );
         make_btn_link('yes', '', $visit_num, '', '');
     } else {

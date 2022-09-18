@@ -20,8 +20,8 @@
             $results[0]['theme'], $pagina, $theresAnAccount, 
             $results[0]['id'], $results[0]['video_src'], 
             $results[0]['theme'], $results[0]['creation_date'],
-            'es.liveworksheets.com/he3174350lj', '/img/unidades/symbolab.gif', 'Actividad',
-            'es.symbolab.com/', '/img/unidades/geo.gif', 'Ir a Symbolab'
+            'es.liveworksheets.com/he3174350lj', '/img/unidades/gif/actividad5.gif', 'Actividad',
+            'es.symbolab.com/', '/img/unidades/gif/symbolab3.gif', 'Ir a Symbolab'
         );
         make_btn_link('yes', '', $visit_num, '', '');
     } else {

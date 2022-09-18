@@ -19,8 +19,8 @@
             $results[4]['theme'], $pagina, $theresAnAccount, 
             $results[4]['id'], $results[4]['video_src'], 
             $results[4]['theme'], $results[4]['creation_date'],
-            'https://es.liveworksheets.com/ym3172823vc/', '/img/unidades/actividad.gif', 'Actividad',
-            'es.symbolab.com', '/img/unidades/geo.gif', 'Ir a Symbolab'
+            'es.liveworksheets.com/ym3172823vc', '/img/unidades/gif/live.gif', 'Actividad',
+            'es.symbolab.com', '/img/unidades/gif/Symbolab1.gif', 'Ir a Symbolab'
         );
         make_btn_link('yes', '', $visit_num, '', '');
     } else {
